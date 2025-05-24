@@ -7,7 +7,7 @@
 
 **基本界面：** 
 - 着陆页：
-![image](https://github.com/user-attachments/assets/d0870d9b-1c12-4737-8848-d1ada2796281)
+![image](https://github.com/user-attachments/assets/125e5e0c-2e9f-4323-ab50-9fef78d42d3d)
 
 - 课程信息页：
 ![image](https://github.com/user-attachments/assets/62ad564a-e9a7-4b0e-98e6-3ab2853ea3b8)
@@ -105,7 +105,7 @@ async with MultiMCPTools([
     agent = Agent(tools=[mcp_tools])
 ```
 ### UI/UX
-基于React框架，由 Figma + lovable 实现具体风格，鸣谢两款
+基于React框架，由 Figma + lovable 负责实现，鸣谢两款先进的设计软件。
 
 ## 团队成员分工
 1. 队长: 统筹协调并负责 `TeachingTeam` 中各个 Agents 的开发；
